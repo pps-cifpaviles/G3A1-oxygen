@@ -229,7 +229,7 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 
 ## Colaboradores
 
-Carlos Menendez Rubio
+[Carlos - carlos094-alt](https://github.com/carlos094-alt)
 
 ## Licencia y uso
 
